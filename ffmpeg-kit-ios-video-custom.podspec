@@ -1,5 +1,5 @@
 Pod::Spec.new do |s|  
-    s.name             = 'ffmpeg-kit-ios-video-custom'
+    s.name             = 'ffmpeg-kit-ios-video'
     s.version          = '6.0.LTS'
     s.summary          = 'FFmpeg Kit iOS Video Package - Custom Build'
     s.description      = 'Custom build of FFmpeg Kit iOS Video Package with video processing libraries: dav1d, fontconfig, freetype, fribidi, kvazaar, libass, libiconv, libtheora, libvpx, libwebp, snappy'
